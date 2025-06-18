@@ -1,8 +1,8 @@
 ### 📝 About Me | 关于我
 
-I am a graduate with a major in English and have been engaged in English-related work for over seven years. My expertise includes English translation, technical writing, and English teaching. I am particularly skilled at translating in fields such as automation, civil engineering, and instrumentation software development. I am committed to continuous learning and self-improvement, having studied AI, Python, English grammar, and English writing.
+I have been engaged in English-related work for over seven years. My expertise includes English translation, technical writing, and English teaching. I am particularly skilled at translating in fields such as automation, civil engineering, instrumentation, and software development. I am committed to continuous learning and self-improvement, having studied AI, Python, English grammar, and English writing.
 
-我是英语专业毕业生，从事英语相关工作已有七年多。我擅长英语翻译、技术文档写作和英语教学，尤其在自动化、土木工程、仪器仪表、软件开发等领域的翻译方面具有丰富经验。我不断学习提升自己，曾学习过AI，Python，以及英语语法和写作。
+我从事英语相关工作已有七年多。我擅长英语翻译、技术文档写作和英语教学，尤其在自动化、土木工程、仪器仪表、软件开发等领域的翻译方面具有丰富经验。我不断学习提升自己，学习过AI，Python，以及英语语法和写作。
 
 ---
 
