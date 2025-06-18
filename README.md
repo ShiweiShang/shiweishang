@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### 📝 About Me | 关于我
 
 I am a graduate with a major in English and have been engaged in English-related work for over seven years. My expertise includes English translation, technical writing, and English teaching. I am particularly skilled at translating in fields such as automation, civil engineering, and instrumentation software development. I am committed to continuous learning and self-improvement, having studied AI, Python, English grammar, and English writing.
@@ -21,5 +19,5 @@ I am a graduate with a major in English and have been engaged in English-related
 - 🌱 正在学习：前沿AI、先进翻译技术。
 - 👯 希望合作：需要高质量技术翻译及语言培训的项目。
 - 💬 欢迎咨询：自动化、土木工程、软件开发等领域的翻译问题。
-- 📫 联系方式：shiweo.shang@qq.com
+- 📫 联系方式：shiwei.shang@qq.com
 - ⚡ 趣味事实：我热衷于将技术与语言结合，打破沟通壁垒！
