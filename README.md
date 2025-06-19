@@ -6,18 +6,19 @@ I have been engaged in English-related work for over seven years. My expertise i
 
 ---
 
-- 🔭 I’m currently working on: technical writing.
-- 🌱 I’m currently learning: AI and technical writing methodologies.
-- 👯 I’m looking to collaborate on: Projects requiring precise technical translation.
+- 🔭 Currently working on: Technical writing.
+- 🌱 Exploring: AI and technical writing methodologies.
+- 👯 Open to collaborate on: Projects requiring precise technical translation.
 - 💬 Ask me about: Translation for automation, civil engineering, and software development.
-- 📫 How to reach me: shiwei.shang@qq.com
+- 📫 Reach me at: shiwei.shang@qq.com
 - ⚡ Fun fact: I love combining technology with language to break communication barriers!
 
 ---
 
 - 🔭 目前从事：技术文档写作。
-- 🌱 正在学习：AI、技术写作理论和技巧。
+- 🌱 正在学习：AI、技术写作方法和流程。
 - 👯 希望合作：需要高质量技术翻译的项目。
 - 💬 欢迎咨询：自动化、土木工程、软件开发等领域的翻译问题。
 - 📫 联系方式：shiwei.shang@qq.com
 - ⚡ 趣味事实：我热衷于将技术与语言结合，打破沟通壁垒！
+- 
