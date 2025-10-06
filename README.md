@@ -11,7 +11,7 @@ I have been engaged in English-related work for over seven years. My expertise i
 - 👯 Open to collaborate on: Projects requiring precise technical translation.
 - 💬 Ask me about: Translation for automation, civil engineering, and software development.
 - 📫 Reach me at: shiwei.shang@qq.com.
-- 📝 My blog: [https://shiweishang.github.io](https://shiweishang.github.io)
+- 📝 My blog: [https://shiweishang.github.io](https://shiweishang.github.io).
 - ⚡ Fun fact: I love combining technology with language to break communication barriers!
 
 ---
