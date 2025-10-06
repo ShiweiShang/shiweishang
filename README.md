@@ -2,7 +2,7 @@
 
 I have been engaged in English-related work for over seven years. My expertise includes English translation, technical writing, and English teaching. I am particularly skilled at translating in fields such as automation, civil engineering, instrumentation, and software development. I am committed to continuous learning and self-improvement, having studied AI, Python, English grammar, and English writing.
 
-我从事英语相关工作已有七年多。擅长英语翻译、技术文档写作和英语教学。在自动化、土木工程、仪器仪表、软件开发等方面具有丰富的翻译经验。我喜欢学习新的东西提升自己，比如AI、Python、外语和写作。
+我从事英语相关工作已有七年多。擅长英语翻译、技术文档写作和英语教学。在自动化、土木工程、仪器仪表和软件开发等方面具有丰富的翻译经验。我喜欢学习新的东西提升自己，比如AI、Python、外语和写作。
 
 ---
 
